@@ -1,5 +1,7 @@
 # Exploring_CIFAR_10
 
+[View notebook in NBViewer](https://nbviewer.jupyter.org/github/Mainakdeb/Exploring_CIFAR_10/blob/master/Exploring_CIFAR_10.ipynb)
+
 Download- [CIFAR-10 raw jpeg images](https://github.com/YoongiKim/CIFAR-10-images)
 
 I downloaded the raw jpeg format on purpose to get comfortable with handling RGB-image datasets.
