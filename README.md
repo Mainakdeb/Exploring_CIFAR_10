@@ -17,3 +17,7 @@ The model has an accuracy of 68% on 10,000 test images.
 * Handling raw RGB image datasets.
 * Augmenting training images to increase model robustness.
 * Implemented a checkpoint mechanism to aid long duration training on colab.
+
+## To Do:
+* Try using a larger model.
+* Use learning rate scheduler
